@@ -16,7 +16,7 @@ public class Hands_on_2_eSum8 {
         int totalSum = 100 * 101 / 2; 
         int missing = totalSum - sum;
 
-        System.out.println("The missing number is: " + missing)
+        System.out.println("The missing number is: " + missing);
         input.close();
     }
 }
