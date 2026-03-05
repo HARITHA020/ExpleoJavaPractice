@@ -1,4 +1,4 @@
-package polymorphism_handsOn;
+package handsOn6;
 class Person{
 	String name;
 	public void setName(String name) {
