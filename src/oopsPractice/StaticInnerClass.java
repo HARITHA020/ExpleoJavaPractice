@@ -21,7 +21,7 @@ public class StaticInnerClass {
 		Person person=new Person();
 		person.gender.nonStaticDisplay();       //inner class nonStatic method
 		Person.Gender.staticDisplay();          // inner class static method
-
 	}
+
 
 }
