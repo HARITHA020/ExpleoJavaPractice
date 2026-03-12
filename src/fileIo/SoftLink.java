@@ -20,7 +20,9 @@ public class SoftLink {
 			System.out.println(x);
 		}*/
 		
-		boolean result= Files.exists(existingFile);
+		//boolean result= Files.exists(existingFile);
+		//System.out.println("Path"+existingFile+" exists:"+result);
+		boolean result= Files.isReadable(existingFile);
 		System.out.println("Path"+existingFile+" exists:"+result);
 
 	}
