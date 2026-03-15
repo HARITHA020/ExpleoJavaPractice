@@ -24,5 +24,4 @@ public class Hands_on_2_eSum4 {
 		input.close();
 
 	}
-
 }
