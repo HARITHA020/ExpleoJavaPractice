@@ -17,5 +17,4 @@ public class Hands_on_10_sum2 {
 			System.out.print(str+" ");
 		}
 	}
-
 }
